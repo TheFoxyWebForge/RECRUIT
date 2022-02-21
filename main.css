@@ -23,27 +23,29 @@
       }
   
       .container-fluid{
-        padding: -8% 4% -4%;
+        padding: 0% 4% 0%;
   
       }
       .navbar{
-        padding-left: 5%;
-        padding-right: 5%;
+        padding-left: 0%;
+        padding-right: 0%;
        
       }
       .navbar-brand{
         font-family: Ubuntu cursive;
-        font-size: 2.0rem;
+        font-size: 1.5rem;
         font-weight: bold;
+        padding-left: 5%;
   
       }
       .nav-item{
       padding:2px;
-      font-size:4.0rem;
+      font-size:3.0rem;
+      
   
       }
       .logo{
-        width:50%;
+        width:12vw;
    
       }
       .nav-link{
@@ -53,10 +55,7 @@
         font-weight: 500;
       }
   
-      .download-button{
-        margin: 5% 3% 5% 3%;
-      }
-  
+      
   
   
   
