@@ -568,7 +568,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url(rekrut-flexi.jpg);
+  
     background-size: cover;
     background-attachment: fixed;
     padding-top: 9%;
@@ -585,14 +585,14 @@
   .contact .content h2{
   font-size: 50px;
   font-weight: 500;
-  color: #98c421;
+  color: black;
   
   }
   
   .contact .content p{
    
     font-weight: 500;
-    color: #98c421;
+    color: black;
     
     }
   
@@ -619,7 +619,7 @@
     .container1 .contactInfo .box1 .icon{
       min-width: 50px;
       height: 50px;
-      background: #98c421;
+      background: black;
       display: flex;
       color: rgb(255, 255, 255);
       justify-content: center;
@@ -632,7 +632,7 @@
       display: flex;
       margin-left: 20px;
       font-size: 16px;
-      color: #98c421;
+      color: black;
       flex-direction: column;
       font-weight: 300;
     }
